@@ -44,7 +44,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="index.php">ASCO Automotive</a>
+      <a class="navbar-brand" href="index.php">Dealer</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
@@ -73,7 +73,7 @@
       <div class="item active">
         <img src="gambar/pic1.jpg">
         <div class="carousel-caption">
-          <h3>ASCO Automotive</h3>
+          <h3>Dealer</h3>
           <p>Dealer Resmi & Bengkel Resmi</p>
         </div>      
       </div>
@@ -103,16 +103,16 @@
   <h3 align="left">Berita dan Event</h3><br>
   <div class="row">
     <div class="col-sm-4">
-      <a href="news1.php"><p align="justify"><font color="red"><b>Pesta Hadiah ASCO Daihatsu, Hadirkan Kegembiraan Bersama Konsumen</b></font></p></a>
-      <p align="justify">Kegembiraan menjadi milik ASCO Daihatsu bersama para konsumennya. Kebersamaan yang erat hadir saat digelar <a href="new1.php">baca selanjutnya ...</a></p>
+     
+      <p align="justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. <a href="new1.php">baca selanjutnya ...</a></p>
     </div>
     <div class="col-sm-4"> 
-     <a href="news2.php"><p align="justify"><font color="red"><b>Asco Daihatsu Sabet 3 Penghargaan di Ajang Daihatsu National Conference 2017</b></font></p></a>
-     <p align="justify">Pada 3 Februari 2017, Daihatsu baru-baru ini menggelar ajang kontes dealer yang diadakan di Balai Kartini, Jakarta Selatan. <a href="news2.php">baca selanjutnya ...</a></p>
+     
+     <p align="justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<a href="news2.php">baca selanjutnya ...</a></p>
     </div>
     <div class="col-sm-4">
-      <a href="news3.php"><p align="justify"><font color="red"><b>ASCO Daihatsu Meriahkan Jakarta Fair 2016</b></font></p></a>
-     <p align="justify">ASCO Daihatsu turut berpartisipasi dalam gelaran kegiatan Jakarta Fair 2016 yang berlangsung mulai dari tanggal 10 Juni <a href="news3.php">baca selanjutnya ...</a></p>
+   
+     <p align="justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<a href="news3.php">baca selanjutnya ...</a></p>
     </div>
   </div>
 </div><br><br>
@@ -126,7 +126,7 @@
 
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Copyright © 2016 ASCO Automotive, All right reserved.</a></li>
+        <li><a href="#">Copyright © 2016, All right reserved.</a></li>
       </ul>
     </div>
 </footer>

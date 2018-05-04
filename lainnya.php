@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>ASCO Automotive</title>
+  <title>Dealer</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -44,7 +44,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="index.php">ASCO Automotive</a>
+      <a class="navbar-brand" href="index.php">Dealer</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
@@ -78,7 +78,7 @@
 
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Copyright © 2016 ASCO Automotive, All right reserved.</a></li>
+        <li><a href="#">Copyright © 2016, All right reserved.</a></li>
       </ul>
     </div>
 </footer>

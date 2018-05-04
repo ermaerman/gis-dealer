@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>ASCO Automotive</title>
+  <title>Dealer</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -44,7 +44,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="index.php">ASCO Automotive</a>
+      <a class="navbar-brand" href="index.php">Dealer</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
@@ -66,12 +66,8 @@
 <body>
   
   <div class="container table-responsive"><br><br><br>
-   <h1 align="center">© Hak Cipta ASCO Automotive, 2011. Semua hak dimiliki</h1><br>
-   <p align="center">Undang-undang hak cipta internasional, perjanjian dan undang-undang terkait melindungi informasi pada situs web ini.
-
-Penggunaan informasi ini termasuk perubahan, duplikasi, unggah, reproduksi, transmisi, sirkulasi, penjualan lisensi,
-dan penerbitan dilarang oleh hukum dalam semua kasus kecuali digunakan oleh pribadi
-atau termasuk dalam ruang lingkup yang diizinkan oleh undang-undang lainnya.</p>
+   <h1 align="center">© Hak Cipta, 2016. Semua hak dimiliki</h1><br>
+   <p align="center">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 <br><br>
    </div>
 </body>
@@ -92,7 +88,7 @@ atau termasuk dalam ruang lingkup yang diizinkan oleh undang-undang lainnya.</p>
 
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Copyright © 2016 ASCO Automotive, All right reserved.</a></li>
+        <li><a href="#">Copyright © 2016, All right reserved.</a></li>
       </ul>
     </div>
 </footer>

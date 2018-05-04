@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>ASCO Automotive</title>
+  <title>Dealer</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -44,7 +44,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="index.php">ASCO Automotive</a>
+      <a class="navbar-brand" href="index.php">Dealer</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
@@ -66,27 +66,26 @@
 <br> 
   <h3 align="left">Tentang Kami</h3><br>
  
-    <p align="justify">ASCO Automotive merupakan salah satu grup otomotif terkemuka di tanah air yang telah berdiri sejak tahun 1989, dengan brand Adira Mobil. Pada tahun 2004, Adira Mobil kemudian melakukan pergantian merk dan penajaman strategi bisnis dengan mengganti nama perusahaan menjadi ASCO Automotive. Saat ini ASCO merupakan dealer dan bengkel resmi untuk 4 merk otomotif terkemuka, yaitu Daihatsu, Isuzu, Peugeot, dan UD Trucks. Jaringan ASCO Automotive saat ini tersebar di Jabotabek, Jawa Barat, dan Jawa Timur. Jumlah outlet kami terus bertambah setiap tahunnya, sebagai wujud komitmen kami di dalam dunia otomotif.</p>
+    <p align="justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 <br>
     <h3 align="left">Visi & Misi</h3><br>
  
-    <p align="justify">Sebagai perusahaan yang dikelola dengan profesional, ASCO memiliki visi yang bertujuan untuk memberikan layanan yang terbaik kepada semua pemangku kepentingan. Untuk meraih tujuan tersebut, ASCO mencanangkan untuk terus mengembangkan inovasi layanan, sebagai wujud komitmen kami di dalam dunia otomotif.</p>
+    <p align="justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 
     <br>
     <h3 align="left">Sumber Daya Mekanik Handal</h3><br>
  
-    <p align="justify">Keterampilan dan keahlian mekanik sangat penting dalam menjaga kualitas 
-pekerjaan bengkel. Dalam hal ini, ASCO melakukan training intensif secara berkala terhadap sumber daya mekanik yang ada. Melalui training ini, keterampilan dan keahlian mekanik dapat ditingkatkan, yang juga tercermin dari keberhasilan mekanik ASCO menjuarai berbagai kontes mekanik berskala nasional.</p>
+    <p align="justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 
 <br>
     <h3 align="left">Mesin dan Peralatan Bengkel Terkini</h3><br>
  
-    <p align="justify">Untuk memberikan layanan purna jual yang berkualitas tinggi, ASCO berinvestasi pada mesin dan peralatan sesuai standard teknologi kendaraan. Bengkel ASCO memiliki stall yang luas, lift khusus, mesin uji emisi, alat kalibrasi, mesin spooring balancing, mesin pengganti ban serta peralatan lengkap lainnya.</p>
+    <p align="justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 
     <br>
     <h3 align="left">Garansi Pekerjaan</h3><br>
  
-    <p align="justify">Untuk memberikan rasa aman bagi pelanggan, ASCO juga memberikan Garansi untuk setiap pekerjaan di bengkel ASCO. Apabila anda merasa tidak puas, ASCO siap melakukan perbaikan ulang tanpa dikenakan biaya.</p>
+    <p align="justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
 
 
 </div><br><br>
@@ -100,7 +99,7 @@ pekerjaan bengkel. Dalam hal ini, ASCO melakukan training intensif secara berkal
 
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Copyright © 2016 ASCO Automotive, All right reserved.</a></li>
+        <li><a href="#">Copyright © 2016, All right reserved.</a></li>
       </ul>
     </div>
 </footer>
