@@ -103,7 +103,7 @@
 
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Copyright © 2016 ASCO Automotive, All right reserved.</a></li>
+        <li><a href="#">Copyright © 2016, All right reserved.</a></li>
       </ul>
     </div>
 </footer>

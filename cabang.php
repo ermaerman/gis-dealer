@@ -77,7 +77,7 @@ mysql_select_db($dbname,$koneksi);
 
 echo 
 '<div class="container"><br>
-  <h2 align="center">Sistem Informasi Cabang PT. ASCO Automotive</h2><br>            
+  <h2 align="center">Sistem Informasi Cabang Dealer</h2><br>            
   <table class="table table-bordered">
     <thead align="center">
       <tr>
@@ -132,7 +132,7 @@ mysql_close($koneksi);
 
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Copyright © 2016 ASCO Automotive, All right reserved.</a></li>
+        <li><a href="#">Copyright © 2016, All right reserved.</a></li>
       </ul>
     </div>
 </footer>

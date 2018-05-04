@@ -8,7 +8,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDCJ6cZ8t_HBdb2439Chkitvr162RbJ3h4&callback=initMap" type="text/javascript"></script>
-    <title>ASCO Automotive</title>
+    <title>Dealer</title>
     <style>
 
      /* Remove the navbar's default margin-bottom and rounded borders */ 
@@ -58,7 +58,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-brand" href="index.php">ASCO Automotive</a>
+      <a class="navbar-brand" href="index.php">Dealer</a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
@@ -119,7 +119,7 @@
 
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="#">Copyright © 2016 ASCO Automotive, All right reserved.</a></li>
+        <li><a href="#">Copyright © 2016, All right reserved.</a></li>
       </ul>
     </div>
 </footer>
